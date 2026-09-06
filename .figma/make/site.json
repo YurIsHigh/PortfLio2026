@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a minimalist, classic portfolio with pastel colors and rounded borders, ideal for professionals seeking elegant personal branding.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
